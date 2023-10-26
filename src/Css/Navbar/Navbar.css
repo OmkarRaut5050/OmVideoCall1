@@ -1,0 +1,10 @@
+
+.Navart{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: black;
+    color: red;
+    height: 50px;
+    width: 100%;
+}

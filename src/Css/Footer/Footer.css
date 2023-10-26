@@ -1,0 +1,10 @@
+
+.Navartfooter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: red;
+    color: black;
+    height: 50px;
+    width: 100%;
+}
